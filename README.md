@@ -1,13 +1,13 @@
 ### Hi there Here Is What I'm Working on ! 👋
 
-- 🔭 I’m currently working on ... Full Stack PHP | Laravel & React Native
-- 🌱 I’m currently learning ... PHP, Laravel, MySQL, WordPrees, React, React Native & Dart Flutter
+- 🔭 I’m currently working on ... Front End Web Developer | Mobile App Developer React Native |Full Stack PHP Laravel
+- 🌱 I’m currently learning ... React, React Native, Tailwind, Typescript, PHP, Laravel, MySQL, WordPrees
 - 👯 I’m looking to collaborate on ... PHP
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... Looking for work
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [PortFolio](https://x39ome.github.io/portfolio_sam/)
 - 😄 ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I love Coffee :coffee:
 
 
 ### Languages and Tools I use:
