@@ -8,6 +8,7 @@
 - 📫 How to reach me: ... [PortFolio](https://x39ome.github.io/portfolio_sam/)
 - 😄 ... 🫀
 - ⚡ Fun fact: ... I love Coffee :coffee:
+- My Goal 🥇... I aspire to become a professional in website development programmer Full Stack Web Developer, and professional Mobile App development programmer in React Native, Expert in Artificial Intelligence and Data Analysis.
 
 
 ### Languages and Tools I use:
