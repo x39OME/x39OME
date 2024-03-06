@@ -31,10 +31,7 @@
 <img width="60px" height="60px" align="left" alt="Xammp" src="./icons/xampp.svg" />
 <img width="60px" height="60px" style='display:block' align="left" alt="Laragon" src="./icons/laragon.svg" />
 
-
-
-
-### Soon
+### Tools I use:
 
 <img width="60px" height="60px" align="left" alt="Next Js" src="./icons/next-js.svg" />
 <img width="60px" height="60px" align="left" alt="Wordpress" src="./icons/wordpress.svg" />
