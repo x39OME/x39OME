@@ -28,7 +28,7 @@
 <img width="60px" height="60px" align="left" alt="VSCode" src="./icons/vscode.svg" />
 <img width="60px" height="60px" align="left" alt="Github" src="./icons/github.svg" />
 <img width="60px" height="60px" align="left" alt="Netlify" src="./icons/netlify.svg" />
-<img width="60px" height="60px" align="left" alt="Xammp" src="./icons/Xammp.svg" />
+<img width="60px" height="60px" align="left" alt="Xammp" src="./icons/xampp.svg" />
 <img width="60px" height="60px" align="left" alt="Laragon" src="./icons/laragon.svg" />
 
 <br />
