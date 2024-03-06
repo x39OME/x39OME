@@ -13,24 +13,26 @@
 
 ### Languages and Tools I use:
 
-<img width="60px" height="60px" align="left" alt="HTML5" src="./icons/html.svg" />
-<img width="60px" height="60px" align="left" alt="CSS" src="./icons/css.svg" />
-<img width="60px" height="60px" align="left" alt="Javascript" src="./icons/javascript.svg" />
-<img width="60px" height="60px" align="left" alt="Typescript" src="./icons/typescript.svg" />
-<img width="60px" height="60px" align="left" alt="Bootstrap" src="./icons/bootstrap.svg" />
-<img width="60px" height="60px" align="left" alt="Tailwind" src="./icons/tailwindcss.svg" />
-<img width="60px" height="60px" align="left" alt="sass" src="./icons/sass.svg" />
-<img width="60px" height="60px" align="left" alt="React" src="./icons/react.svg" />
-<img width="60px" height="60px" align="left" alt="React Native" src="./icons/react-native.svg" />
-<img width="60px" height="60px" align="left" alt="Php" src="./icons/php.svg" />
-<img width="60px" height="60px" align="left" alt="Laravel" src="./icons/laravel.svg" />
-<img width="60px" height="60px" align="left" alt="MySQL" src="./icons/mysql.svg" />
-<img width="60px" height="60px" align="left" alt="VSCode" src="./icons/vscode.svg" />
-<img width="60px" height="60px" align="left" alt="Github" src="./icons/github.svg" />
-<img width="60px" height="60px" align="left" alt="Netlify" src="./icons/netlify.svg" />
-<img width="60px" height="60px" align="left" alt="Xammp" src="./icons/xampp.svg" />
-<img width="60px" height="60px" style='display:block' align="left" alt="Laragon" src="./icons/laragon.svg" />
+<div style="display: flex">
+  <img width="60px" height="60px" align="left" alt="HTML5" src="./icons/html.svg" />
+  <img width="60px" height="60px" align="left" alt="CSS" src="./icons/css.svg" />
+  <img width="60px" height="60px" align="left" alt="Javascript" src="./icons/javascript.svg" />
+  <img width="60px" height="60px" align="left" alt="Typescript" src="./icons/typescript.svg" />
+  <img width="60px" height="60px" align="left" alt="Bootstrap" src="./icons/bootstrap.svg" />
+  <img width="60px" height="60px" align="left" alt="Tailwind" src="./icons/tailwindcss.svg" />
+  <img width="60px" height="60px" align="left" alt="sass" src="./icons/sass.svg" />
+  <img width="60px" height="60px" align="left" alt="React" src="./icons/react.svg" />
+  <img width="60px" height="60px" align="left" alt="React Native" src="./icons/react-native.svg" />
+  <img width="60px" height="60px" align="left" alt="Php" src="./icons/php.svg" />
+  <img width="60px" height="60px" align="left" alt="Laravel" src="./icons/laravel.svg" />
+  <img width="60px" height="60px" align="left" alt="MySQL" src="./icons/mysql.svg" />
+  <img width="60px" height="60px" align="left" alt="VSCode" src="./icons/vscode.svg" />
+  <img width="60px" height="60px" align="left" alt="Github" src="./icons/github.svg" />
+  <img width="60px" height="60px" align="left" alt="Netlify" src="./icons/netlify.svg" />
+  <img width="60px" height="60px" align="left" alt="Xammp" src="./icons/xampp.svg" />
+  <img width="60px" height="60px" style='display:block' align="left" alt="Laragon" src="./icons/laragon.svg" />
 
+</div>
 <br />
 
 ### Tools I use:
