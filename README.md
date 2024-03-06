@@ -14,6 +14,7 @@
 ### Languages and Tools I use:
 
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
+  
   <img width="60px" height="60px" align="left" alt="HTML5" src="./icons/html.svg" />
   <img width="60px" height="60px" align="left" alt="CSS" src="./icons/css.svg" />
   <img width="60px" height="60px" align="left" alt="Javascript" src="./icons/javascript.svg" />
@@ -33,8 +34,9 @@
   <img width="60px" height="60px" style='display:block' align="left" alt="Laragon" src="./icons/laragon.svg" />
 
 </div>
-<br />
 
+<br />
+`1`
 ### Tools I use:
 
 <div style="color: blue">
