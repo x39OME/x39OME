@@ -31,10 +31,12 @@
 <img width="60px" height="60px" align="left" alt="Xammp" src="./icons/xampp.svg" />
 <img width="60px" height="60px" style='display:block' align="left" alt="Laragon" src="./icons/laragon.svg" />
 
-<br>
+<br />
 
 ### Tools I use:
 
-<img width="60px" height="60px" align="left" alt="Next Js" src="./icons/next-js.svg" />
-<img width="60px" height="60px" align="left" alt="Wordpress" src="./icons/wordpress.svg" />
-<img width="60px" height="60px" align="left" alt="Node Js" src="./icons/nodejs.svg" />
+<div style='background-color:#000'>
+  <img width="60px" height="60px" align="left" alt="Next Js" src="./icons/next-js.svg" />
+  <img width="60px" height="60px" align="left" alt="Wordpress" src="./icons/wordpress.svg" />
+  <img width="60px" height="60px" align="left" alt="Node Js" src="./icons/nodejs.svg" />
+</div>
