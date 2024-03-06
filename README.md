@@ -15,5 +15,8 @@
 
 <img align="left" alt="HTML5" width="40px" src="./icons/html.svg" />
 <img align="left" alt="CSS" width="40px" src="./icons/css.svg" />
+<img align="left" alt="Javascript" width="40px" src="./icons/javascript.svg" />
+<img align="left" alt="bootstrap" width="40px" src="./icons/bootstrap.svg" />
+<img align="left" alt="tailwind" width="40px" src="./icons/tailwind-css.svg" />
 
 <br />
