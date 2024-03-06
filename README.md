@@ -13,7 +13,7 @@
 
 ### Languages and Tools I use:
 
-<img align="left" alt="HTML5" width="80px" src="./icons/html.svg" />
+<img align="left" alt="HTML5" width="80px" height="50" src="./icons/html.svg" />
 <img align="left" alt="CSS" width="80px" src="./icons/css.svg" />
 <img align="left" alt="Javascript" width="80px" src="./icons/javascript.svg" />
 <img align="left" alt="Bootstrap" width="80px" src="./icons/bootstrap.svg" />
