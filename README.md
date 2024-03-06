@@ -31,8 +31,6 @@
 <img width="60px" height="60px" align="left" alt="Xammp" src="./icons/xampp.svg" />
 <img width="60px" height="60px" style='display:block' align="left" alt="Laragon" src="./icons/laragon.svg" /> <br />
 
-- 1
-- 2
 
 ### Soon
 
