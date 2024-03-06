@@ -12,6 +12,7 @@
 
 
 ### Languages and Tools I use:
+
 <img align="left" width="60px" height="60px" alt="HTML5" src="./icons/html.svg" />
 <img align="left" width="60px" height="60px" alt="CSS" src="./icons/css.svg" />
 <img align="left" width="60px" height="60px" alt="Javascript" src="./icons/javascript.svg" />
