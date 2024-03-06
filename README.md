@@ -13,12 +13,12 @@
 
 ### Languages and Tools I use:
 
-<img align="left" alt="HTML5" width="80px" height="50" src="./icons/html.svg" />
-<img align="left" alt="CSS" width="80px" src="./icons/css.svg" />
-<img align="left" alt="Javascript" width="80px" src="./icons/javascript.svg" />
-<img align="left" alt="Bootstrap" width="80px" src="./icons/bootstrap.svg" />
-<img align="left" alt="Tailwind" width="80px" src="./icons/tailwindcss.svg" />
-<img align="left" alt="React" width="80px" src="./icons/react.svg" />
-<img align="left" alt="React Native" width="80px" src="./icons/react-native.svg" />
+<img width="80px" height="50" align="left" alt="HTML5" src="./icons/html.svg" />
+<img width="80px" height="50" align="left" alt="CSS" src="./icons/css.svg" />
+<img width="80px" height="50" align="left" alt="Javascript" src="./icons/javascript.svg" />
+<img width="80px" height="50" align="left" alt="Bootstrap" src="./icons/bootstrap.svg" />
+<img width="80px" height="50" align="left" alt="Tailwind"  src="./icons/tailwindcss.svg" />
+<img width="80px" height="50" align="left" alt="React" " src="./icons/react.svg" />
+<img width="80px" height="50" align="left" alt="React Native" src="./icons/react-native.svg" />
 
 <br />
