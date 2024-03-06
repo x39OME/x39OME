@@ -16,7 +16,9 @@
 <img align="left" alt="HTML5" width="40px" src="./icons/html.svg" />
 <img align="left" alt="CSS" width="40px" src="./icons/css.svg" />
 <img align="left" alt="Javascript" width="40px" src="./icons/javascript.svg" />
-<img align="left" alt="bootstrap" width="40px" src="./icons/bootstrap.svg" />
-<img align="left" alt="tailwind" width="40px" src="./icons/tailwind-css.svg" />
+<img align="left" alt="Bootstrap" width="40px" src="./icons/bootstrap.svg" />
+<img align="left" alt="Tailwind" width="40px" src="./icons/tailwindcss.svg" />
+<img align="left" alt="React" width="40px" src="./icons/react.svg" />
+<img align="left" alt="React Native" width="40px" src="./icons/react-native.svg" />
 
 <br />
