@@ -17,11 +17,11 @@
 <img align="left" width="60px" height="60px" alt="CSS" src="./icons/css.svg" />
 <img align="left" width="60px" height="60px" alt="Javascript" src="./icons/javascript.svg" />
 <img align="left" width="60px" height="60px" alt="Typescript" src="./icons/typescript.svg" />
+<img align="left" width="60px" height="60px" alt="React" src="./icons/react.svg" />
+<img align="left" width="60px" height="60px" alt="React Native" src="./icons/react-native.svg" />
 <img align="left" width="60px" height="60px" alt="Bootstrap" src="./icons/bootstrap.svg" />
 <img align="left" width="60px" height="60px" alt="Tailwind" src="./icons/tailwindcss.svg" />
 <img align="left" width="60px" height="60px" alt="sass" src="./icons/sass.svg" />
-<img align="left" width="60px" height="60px" alt="React" src="./icons/react.svg" />
-<img align="left" width="60px" height="60px" alt="React Native" src="./icons/react-native.svg" />
 <img align="left" width="60px" height="60px" alt="Php" src="./icons/php.svg" />
 <img align="left" width="60px" height="60px" alt="Laravel" src="./icons/laravel.svg" />
 <img align="left" width="60px" height="60px" alt="MySQL" src="./icons/mysql.svg" />
