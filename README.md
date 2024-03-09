@@ -41,21 +41,3 @@
 
 
 ## GitHub Stats :
-
-<p align="center">
- 
-<table align="center">
-<tr border="none">
-  <td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=x39ome&theme=algolia" />
-    <br></br>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Essam" src="https://github-readme-streak-stats.herokuapp.com/?user=x39ome&theme=algolia" /> 
-  </td>
-
-  <td width="50%" align="center">
-  
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=x39ome&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-    
-  </td>
-</tr>
-</table>
