@@ -11,7 +11,7 @@
 - My Goal 🎯 ... I Aspire To Become A Professional Programmer in Websites Development (Full Stack Web Developer), And Professional Programmer in Mobile App Development (React Native), And Expert In Artificial Intelligence And Data Analysis.
 
 
-### Languages and Tools I use:
+## Languages and Tools I use:
 
 <img align="left" width="60px" height="60px" alt="HTML5" src="./icons/html.svg" />
 <img align="left" width="60px" height="60px" alt="CSS" src="./icons/css.svg" />
@@ -37,3 +37,25 @@
 <img width="60px" height="60px" align="left" alt="Wordpress" src="./icons/wordpress.svg" />
 <img width="60px" height="60px" align="left" alt="Node Js" src="./icons/nodejs.svg" />
 
+<br />
+
+
+## GitHub Stats :
+
+<p align="center">
+ 
+<table align="center">
+<tr border="none">
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=x39ome&theme=algolia" />
+    <br></br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Essam" src="https://github-readme-streak-stats.herokuapp.com/?user=x39ome&theme=algolia" /> 
+  </td>
+
+  <td width="50%" align="center">
+  
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=x39ome&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+    
+  </td>
+</tr>
+</table>
