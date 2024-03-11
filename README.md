@@ -18,15 +18,15 @@
 
 
 
-- 🔭 I’m currently working on ... Front End Web Developer | Mobile App Developer React Native |Full Stack PHP Laravel
-- 🌱 I’m currently learning ... React, React Native, Tailwind, Typescript, PHP, Laravel, MySQL, WordPrees
-- 👯 I’m looking to collaborate on ... React 
+- 🔭 I’m currently I'm currently Look for a job ... Full Stack Web Developer (Laravel) | Mobile App Developer (React Native) | Front End Web Developer | Back End Web Developer
+- 🌱 I’m currently learning ... React, React Native, Typescript, PHP, Laravel, MySQL, WordPrees
+- 👯 I’m looking to collaborate on ... React
 - 😎 I’m looking for help with ... Looking for work 💻
 - 💬 Ask me about ... Anything 👋
 - 💌 How to reach me: ... @
 - 💤 ... 🫀
 - ⚡ Fun fact: ... I love Coffee :coffee:
-- My Goal 🎯 ... I Aspire To Become A Professional Programmer in Websites Development (Full Stack Web Developer), And Professional Programmer in Mobile App Development (React Native), And Expert In Artificial Intelligence And Data Analysis.
+- My Goal 🎯 ... I Aspire To Become A Professional Programmer in Websites Development (Full Stack Web Developer), And Professional Programmer in Mobile App Development (React Native), And Expert In Artificial Intelligence.
 
 
 <br />
