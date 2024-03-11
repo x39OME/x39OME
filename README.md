@@ -13,23 +13,23 @@
 
 ## Languages and Tools I use:
 
-<img align="left" width="60px" height="60px" alt="HTML5" src="./icons/html.svg" />
-<img align="left" width="60px" height="60px" alt="CSS" src="./icons/css.svg" />
-<img align="left" width="60px" height="60px" alt="Javascript" src="./icons/javascript.svg" />
-<img align="left" width="60px" height="60px" alt="Typescript" src="./icons/typescript.svg" />
-<img align="left" width="60px" height="60px" alt="React" src="./icons/react.svg" />
-<img align="left" width="60px" height="60px" alt="React Native" src="./icons/react-native.svg" />
-<img align="left" width="60px" height="60px" alt="Bootstrap" src="./icons/bootstrap.svg" />
-<img align="left" width="60px" height="60px" alt="Tailwind" src="./icons/tailwindcss.svg" />
-<img align="left" width="60px" height="60px" alt="sass" src="./icons/sass.svg" />
-<img align="left" width="60px" height="60px" alt="Php" src="./icons/php.svg" />
-<img align="left" width="60px" height="60px" alt="Laravel" src="./icons/laravel.svg" />
-<img align="left" width="60px" height="60px" alt="MySQL" src="./icons/mysql.svg" />
-<img align="left" width="60px" height="60px" alt="VSCode" src="./icons/vscode.svg" />
-<img align="left" width="60px" height="60px" alt="Github" src="./icons/github.svg" />
-<img align="left" width="60px" height="60px" alt="Netlify" src="./icons/netlify.svg" />
-<img align="left" width="60px" height="60px" alt="Xammp" src="./icons/xampp.svg" />
-<img align="left" width="60px" height="60px" alt="Laragon" src="./icons/laragon.svg" />
+<img align="left" width="40px" height="40px" alt="HTML5" src="./icons/html.svg" />
+<img align="left" width="40px" height="40px" alt="CSS" src="./icons/css.svg" />
+<img align="left" width="40px" height="40px" alt="Javascript" src="./icons/javascript.svg" />
+<img align="left" width="40px" height="40px" alt="Typescript" src="./icons/typescript.svg" />
+<img align="left" width="40px" height="40px" alt="React" src="./icons/react.svg" />
+<img align="left" width="40px" height="40px" alt="React Native" src="./icons/react-native.svg" />
+<img align="left" width="40px" height="40px" alt="Bootstrap" src="./icons/bootstrap.svg" />
+<img align="left" width="40px" height="40px" alt="Tailwind" src="./icons/tailwindcss.svg" />
+<img align="left" width="40px" height="40px" alt="sass" src="./icons/sass.svg" />
+<img align="left" width="40px" height="40px" alt="Php" src="./icons/php.svg" />
+<img align="left" width="40px" height="40px" alt="Laravel" src="./icons/laravel.svg" />
+<img align="left" width="40px" height="40px" alt="MySQL" src="./icons/mysql.svg" />
+<img align="left" width="40px" height="40px" alt="VSCode" src="./icons/vscode.svg" />
+<img align="left" width="40px" height="40px" alt="Github" src="./icons/github.svg" />
+<img align="left" width="40px" height="40px" alt="Netlify" src="./icons/netlify.svg" />
+<img align="left" width="40px" height="40px" alt="Xammp" src="./icons/xampp.svg" />
+<img align="left" width="40px" height="40px" alt="Laragon" src="./icons/laragon.svg" />
 
 <br />
 
