@@ -40,4 +40,17 @@
 <br />
 
 
+
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="./icons/html.svg" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="./icons/html.svg" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="./icons/html.svg" alt="android" width="40" height="40"/> </a>
+
+
+
+
+
+
+
+
+
 ## GitHub Stats :
