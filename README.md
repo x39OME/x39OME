@@ -48,4 +48,4 @@
 
 
 ## GitHub Stats :
-[![x39OME's GitHub stats](https://github-readme-stats.vercel.app/api?username=x39ome&show_icons=true&theme=radical)]
+[![x39OME's GitHub stats](https://github-readme-stats.vercel.app/api?username=x39ome&show_icons=true&bg_color=00000000)
