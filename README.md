@@ -48,3 +48,4 @@
 
 
 ## GitHub Stats :
+[![x39OME's GitHub stats](https://github-readme-stats.vercel.app/api?username=x39ome)](https://github.com/anuraghazra/github-readme-stats)
