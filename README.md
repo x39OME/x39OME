@@ -14,6 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=x39ome" alt="Views" />
 </div>
 
+<br />
+
 
 
 - 🔭 I’m currently working on ... Front End Web Developer | Mobile App Developer React Native |Full Stack PHP Laravel
