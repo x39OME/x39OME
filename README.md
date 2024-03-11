@@ -48,5 +48,4 @@
 
 
 ## GitHub Stats :
-[![x39OME's GitHub stats](https://github-readme-stats.vercel.app/api?username=x39ome)]
-![x39OME's GitHub stats](https://github-readme-stats.vercel.app/api?username=x39ome&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![x39OME's GitHub stats](https://github-readme-stats.vercel.app/api?username=x39ome&show_icons=true&theme=radical)]
