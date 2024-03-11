@@ -57,5 +57,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x39ome&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.vercel.com?user=x39ome&theme=dark&background=000000a6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=x39ome)
 
