@@ -50,3 +50,11 @@
 ## GitHub Stats :
 ![x39OME's GitHub stats](https://github-readme-stats.vercel.app/api?username=x39ome&show_icons=true&bg_color=00000000)
 ![x39OME's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=x39ome&hide_progress=true)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=x39ome" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x39ome&layout=compact&langs_count=8&card_width=320" />
+</a>
