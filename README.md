@@ -6,7 +6,7 @@
   <a href="#">
     <img src="./linkedin.svg" alt="Linked In Badge"/>
   </a>
-  <a href="https://portafolio-react-mu.vercel.app/">
+  <a href="https://x39ome.github.io/portfolio_sam/">
     <img src="./portfolio.svg" alt="Portfolio Badge"/>
   </a>
 </div>
