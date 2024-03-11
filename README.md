@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on ... React 
 - 😎 I’m looking for help with ... Looking for work 💻
 - 💬 Ask me about ... Anything 👋
-- 💌 How to reach me: ... [PortFolio](https://x39ome.github.io/portfolio_sam/)
+- 💌 How to reach me: ... @
 - 💤 ... 🫀
 - ⚡ Fun fact: ... I love Coffee :coffee:
 - My Goal 🎯 ... I Aspire To Become A Professional Programmer in Websites Development (Full Stack Web Developer), And Professional Programmer in Mobile App Development (React Native), And Expert In Artificial Intelligence And Data Analysis.
