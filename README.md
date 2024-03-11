@@ -1,4 +1,19 @@
-### Hello there Here Is What I'm ! 👋
+<div id="header" align="center">
+  <h1>Hello there Here Is What I'm ! 👋</h1>
+  <img src="#" width="200"/>
+</div>
+<div id="badges" align="center">
+  <a href="#">
+    <img src="./linkedin.svg" alt="Linked In Badge"/>
+  </a>
+  <a href="https://portafolio-react-mu.vercel.app/">
+    <img src="./portfolio.svg" alt="Portfolio Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=x39ome" alt="Views" />
+</div>
+
 
 - 🔭 I’m currently working on ... Front End Web Developer | Mobile App Developer React Native |Full Stack PHP Laravel
 - 🌱 I’m currently learning ... React, React Native, Tailwind, Typescript, PHP, Laravel, MySQL, WordPrees
@@ -9,6 +24,9 @@
 - 💤 ... 🫀
 - ⚡ Fun fact: ... I love Coffee :coffee:
 - My Goal 🎯 ... I Aspire To Become A Professional Programmer in Websites Development (Full Stack Web Developer), And Professional Programmer in Mobile App Development (React Native), And Expert In Artificial Intelligence And Data Analysis.
+
+
+
 
 
 ## Languages and Tools I use:
