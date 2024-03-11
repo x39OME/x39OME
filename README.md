@@ -33,9 +33,9 @@
 
 <br />
 
-<img width="60px" height="60px" align="left" alt="Next Js" src="./icons/next-js.svg" />
-<img width="60px" height="60px" align="left" alt="Wordpress" src="./icons/wordpress.svg" />
-<img width="60px" height="60px" align="left" alt="Node Js" src="./icons/nodejs.svg" />
+<img width="40px" height="40px" align="left" alt="Next Js" src="./icons/next-js.svg" />
+<img width="40px" height="40px" align="left" alt="Wordpress" src="./icons/wordpress.svg" />
+<img width="40px" height="40px" align="left" alt="Node Js" src="./icons/nodejs.svg" />
 
 <br />
 
