@@ -3,7 +3,7 @@
   <img src="#" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/essam-abdullah/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwAR3xkmqxYRLl86ZbY_7AIBCuOPHaXfAGVMcZxXNou6CimTkwGbgct8l-isw">
     <img src="./linkedin.svg" alt="Linked In Badge"/>
   </a>
   <a href="https://x39ome.github.io/portfolio_sam/">
