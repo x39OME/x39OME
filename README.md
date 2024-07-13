@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <h1>Hello there Here Is What I'm ! 👋</h1>
-  <img src="./code.webp" width="400"/>
+  <img src="./code.webp" width="500"/>
 </div>
+<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/essam-abdullah-6an77aab/">
     <img src="./linkedin.svg" alt="Linked In Badge"/>
