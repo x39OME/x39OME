@@ -18,10 +18,8 @@
 <br />
 
 
-
-- 🔭 I’m currently I'm currently Look for a job ... Full Stack Web Developer (Laravel) | Mobile App Developer (React Native) | Front End Web Developer | Back End Web Developer
+- 🔭 I’m currently I'm currently Look for a job ... Web Developer / Mobile App Developer
 - 🌱 I’m currently learning ... React, React Native, Typescript, PHP, Laravel, MySQL, WordPrees
-- 👯 I’m looking to collaborate on ... React
 - 😎 I’m looking for help with ... Looking for work 💻
 - 💬 Ask me about ... Anything 👋
 - 💌 How to reach me: ... @ [Portfolio](https://x39ome.github.io/portfolio_sam)
