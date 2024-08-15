@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hello there Here Is What I'm ! 👋</h1>
+  <h1>Hello there, Here Is What I'm ! 👋</h1>
   <img src="./code.webp" width="600"/>
 </div>
 <br>
@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on ... React
 - 😎 I’m looking for help with ... Looking for work 💻
 - 💬 Ask me about ... Anything 👋
-- 💌 How to reach me: ... @
+- 💌 How to reach me: ... @ [Portfolio](https://x39ome.github.io/portfolio_sam)
 - 💤 ... 🫀
 - ⚡ Fun fact: ... I love Coffee :coffee:
 - My Goal 🎯 ... I Aspire To Become A Professional Programmer in Websites Development (Full Stack Web Developer), And Professional Programmer in Mobile App Development (React Native), And Expert In Artificial Intelligence.
