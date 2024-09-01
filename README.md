@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/essam-abdullah-6an77aab/">
     <img src="./linkedin.svg" alt="Linked In Badge"/>
   </a>
-  <a href="https://x39ome.github.io/portfolio_sam/">
+  <a href="https://x39ome.github.io/essam/">
     <img src="./portfolio.svg" alt="Portfolio Badge"/>
   </a>
 </div>
