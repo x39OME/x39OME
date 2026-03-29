@@ -48,12 +48,11 @@
 <img align="left" width="40px" height="40px" alt="MySQL" src="./icons/mysql.svg" />
 <img align="left" width="40px" height="40px" alt="VSCode" src="./icons/vscode.svg" />
 <img align="left" width="40px" height="40px" alt="Github" src="./icons/github.svg" />
-<img align="left" width="40px" height="40px" alt="Netlify" src="./icons/netlify.svg" />
 <img align="left" width="40px" height="40px" alt="Xammp" src="./icons/xampp.svg" />
 <img align="left" width="40px" height="40px" alt="Laragon" src="./icons/laragon.svg" />
 
 <br />
-
+<img align="left" width="40px" height="40px" alt="Netlify" src="./icons/netlify.svg"/>
 <img width="40px" height="40px" align="left" alt="Next Js" src="./icons/next-js.svg" />
 <img width="40px" height="40px" align="left" alt="Wordpress" src="./icons/wordpress.svg" />
 <img width="40px" height="40px" align="left" alt="Node Js" src="./icons/nodejs.svg" />
