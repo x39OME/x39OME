@@ -46,6 +46,8 @@
 <img align="left" width="40px" height="40px" alt="Php" src="./icons/php.svg" />
 
 <br />
+<br />
+
 <img align="left" width="40px" height="40px" alt="Laravel" src="./icons/laravel.svg" />
 <img align="left" width="40px" height="40px" alt="MySQL" src="./icons/mysql.svg" />
 <img align="left" width="40px" height="40px" alt="VSCode" src="./icons/vscode.svg" />
