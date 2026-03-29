@@ -44,14 +44,14 @@
 <img align="left" width="40px" height="40px" alt="Tailwind" src="./icons/tailwindcss.svg" />
 <img align="left" width="40px" height="40px" alt="sass" src="./icons/sass.svg" />
 <img align="left" width="40px" height="40px" alt="Php" src="./icons/php.svg" />
+
+<br />
 <img align="left" width="40px" height="40px" alt="Laravel" src="./icons/laravel.svg" />
 <img align="left" width="40px" height="40px" alt="MySQL" src="./icons/mysql.svg" />
 <img align="left" width="40px" height="40px" alt="VSCode" src="./icons/vscode.svg" />
 <img align="left" width="40px" height="40px" alt="Github" src="./icons/github.svg" />
 <img align="left" width="40px" height="40px" alt="Xammp" src="./icons/xampp.svg" />
 <img align="left" width="40px" height="40px" alt="Laragon" src="./icons/laragon.svg" />
-
-<br />
 <img align="left" width="40px" height="40px" alt="Netlify" src="./icons/netlify.svg"/>
 <img width="40px" height="40px" align="left" alt="Next Js" src="./icons/next-js.svg" />
 <img width="40px" height="40px" align="left" alt="Wordpress" src="./icons/wordpress.svg" />
