@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning ... React, React Native, Typescript, PHP, Laravel, MySQL, WordPrees
 - 😎 I’m looking for help with ... Looking for work 💻
 - 💬 Ask me about ... Anything 👋
-- 💌 How to reach me: ... @Portfolio [New](https://x39ome.github.io/essam/) / [old](https://x39ome.github.io/portfolio_sam)
+- 💌 How to reach me: ... [@Portfolio](https://x39ome.github.io/essam/)
 - 💤 ... 🫀
 - ⚡ Fun fact: ... I love Coffee :coffee:
 - My Goal 🎯 ... I Aspire To Become A Professional Programmer in Websites Development (Full Stack Web Developer), And Professional Programmer in Mobile App Development (React Native), And Expert In Artificial Intelligence.
