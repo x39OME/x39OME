@@ -75,7 +75,7 @@
 ## 📊 GitHub Stats
 
 - 📈 **Check My GitHub:** [github.com/x39ome](https://github.com/x39ome)
-- 💻 **Top Skills:** JavaScript • React • PHP • Laravel • React Native
+- 💻 **Top Skills:** JavaScript • React • React Native • HTML/CSS3 • Tailwind & Bootstrap
 - 🔧 **Languages:** 8+ Programming Languages
 - ⭐ **Follow Me** on GitHub for more updates!
 
