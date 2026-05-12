@@ -74,9 +74,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x39ome&show_icons=true&theme=dark)
+- 📈 **Check My GitHub:** [github.com/x39ome](https://github.com/x39ome)
+- 💻 **Top Skills:** JavaScript • React • PHP • Laravel • React Native
+- 🔧 **Languages:** 8+ Programming Languages
+- ⭐ **Follow Me** on GitHub for more updates!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x39ome&layout=compact&theme=dark)
+**[→ View Full Profile & Statistics](https://github.com/x39ome)**
 
 ## 🔥 GitHub Streak
 
