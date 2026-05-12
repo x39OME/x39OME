@@ -73,18 +73,24 @@
 
 
 <br />
+## 📊 GitHub Stats
 
-## GitHub Stats :
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=x39ome" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x39ome&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+  </a>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=x39ome" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x39ome&layout=compact&langs_count=8&card_width=320" />
-</a>
+<br />
 
-## GitHub Streak :
-<a href="#">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=x39ome" />
-</a>
+## 🔥 GitHub Streak
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="200" align="center" src="https://streak-stats.demolab.com/?user=x39ome" alt="GitHub Streak" />
+  </a>
+</div>
 
