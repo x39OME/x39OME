@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <h1>Hello there, Here Is What I'm ! 👋</h1>
+  <h1>Hello there, Here's What I'm About ! 👋</h1>
   <img src="./code.webp" width="600"/>
 </div>
 <br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/essam-abdullah-6an77aab/">
-    <img src="./linkedin.svg" alt="Linked In Badge"/>
+    <img src="./linkedin.svg" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x39ome.github.io/essam/">
     <img src="./portfolio.svg" alt="Portfolio Badge"/>
@@ -18,14 +18,18 @@
 <br />
 
 
-- 🔭 I’m currently I'm currently Look for a job ... Web Developer / Mobile App Developer
-- 🌱 I’m currently learning ... React, React Native, Typescript, PHP, Laravel, MySQL, WordPrees
-- 😎 I’m looking for help with ... Looking for work 💻
-- 💬 Ask me about ... Anything 👋
-- 💌 How to reach me: ... [@Portfolio](https://x39ome.github.io/essam/)
-- 💤 ... 🫀
-- ⚡ Fun fact: ... I love Coffee :coffee:
-- My Goal 🎯 ... I Aspire To Become A Professional Programmer in Websites Development (Full Stack Web Developer), And Professional Programmer in Mobile App Development (React Native), And Expert In Artificial Intelligence.
+## About Me
+
+- 🔭 **Currently seeking:** Web Developer / Mobile App Developer position
+- 🌱 **Currently learning:** React, React Native, TypeScript, PHP, Laravel, MySQL, WordPress
+- 💼 **Available for:** Freelance projects and full-time opportunities
+- 💬 **Ask me about:** Anything tech-related - I'm always happy to help! 👋
+- 📧 **How to reach me:** [@Portfolio](https://x39ome.github.io/essam/) | [LinkedIn](https://www.linkedin.com/in/essam-abdullah-6an77aab/)
+- ☕ **Fun fact:** I'm powered by coffee ☕
+- 🎯 **My Goals:**
+  - Full Stack Web Developer
+  - React Native Mobile Developer
+  - AI & Machine Learning Specialist
 
 
 <br />
