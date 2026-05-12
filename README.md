@@ -70,19 +70,14 @@
 
 
 
-
-
 <br />
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=x39ome&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x39ome&layout=compact&theme=tokyonight" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x39ome&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x39ome&layout=compact&theme=dark)
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x39ome&theme=dark" />
-</div>
+![Streak](https://streak-stats.demolab.com/?user=x39ome&theme=dark)
