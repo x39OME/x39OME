@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello there, Here's What I'm About ! 👋</h1>
-  <img src="./code.webp" width="600"/>
+  <!-- <img src="./code.webp" width="600"/> -->
 </div>
 <br>
 <div id="badges" align="center">
