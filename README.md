@@ -4,7 +4,7 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/essam-abdullah-6an77aab/">
+  <a href="https://www.linkedin.com">
     <img src="./linkedin.svg" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x39ome.github.io/essam/">
@@ -24,7 +24,7 @@
 - 🌱 **Currently learning:** React, React Native, TypeScript, PHP, Laravel, MySQL, WordPress
 - 💼 **Available for:** Freelance projects and full-time opportunities
 - 💬 **Ask me about:** Anything tech-related - I'm always happy to help! 👋
-- 📧 **How to reach me:** [@Portfolio](https://x39ome.github.io/essam/) | [LinkedIn](https://www.linkedin.com/in/essam-abdullah-6an77aab/)
+- 📧 **How to reach me:** [@Portfolio](https://x39ome.github.io/essam/)
 - ☕ **Fun fact:** I'm powered by coffee ☕
 - 🎯 **My Goals:**
   - Full Stack Web Developer
