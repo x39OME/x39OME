@@ -5,14 +5,23 @@
   </p>
 </div>
 <br>
+
+<!-->
+
 <div align="center">
   <a href="https://www.linkedin.com/in/your-username">
-    <img src="./linkedin.svg" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn Profile"/>
   </a>
   <a href="https://x39ome.github.io/essam/">
-    <img src="./portfolio.svg" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio Website"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Send me an email"/>
   </a>
 </div>
+
+<!-->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=x39ome" alt="Views" />
 </div>
