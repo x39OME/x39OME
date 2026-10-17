@@ -1,17 +1,16 @@
 <div id="header" align="center">
-  <h1>Hello there, Here's What I'm About ! 👋</h1>
-  <!-- <img src="./" width="600"/> -->
+  <h1>Hey there 👋 I'm Essam, a Software Engineer</h1>
   <p align="center">
-  <img src="./banner.svg" width="100%" alt="Software Engineer — Building fast, beautiful apps for web & mobile">
-</p>
+    <img src="./banner.svg" width="100%" alt="Software Engineer — Building fast, beautiful apps for web & mobile">
+  </p>
 </div>
 <br>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com">
-    <img src="./linkedin.svg" alt="LinkedIn Badge"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-username">
+    <img src="./linkedin.svg" alt="LinkedIn Profile"/>
   </a>
   <a href="https://x39ome.github.io/essam/">
-    <img src="./portfolio.svg" alt="Portfolio Badge"/>
+    <img src="./portfolio.svg" alt="Portfolio Website"/>
   </a>
 </div>
 <div align="center">
