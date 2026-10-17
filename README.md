@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <h1>Hello there, Here's What I'm About ! 👋</h1>
-  <img src="./code.json" width="600"/>
+  <!-- <img src="./" width="600"/> -->
+  <p align="center">
+  <img src="./banner.svg" width="100%" alt="Software Engineer — Building fast, beautiful apps for web & mobile">
+</p>
 </div>
 <br>
 <div id="badges" align="center">
