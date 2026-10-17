@@ -45,35 +45,29 @@
 
 ### Mobile
 <p>
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=38bdf8" alt="React Native" />
+  <img src="./ICONS/reactnative.svg" width="48" alt="React Native" />
 </p>
 
 ### Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,wordpress&theme=dark" alt="Node.js, PHP, Laravel, MySQL, WordPress" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=38bdf8" alt="JSON" />
+  <img src="./ICONS/json.svg" width="48" alt="JSON" />
 </p>
 
 ### AI Tools
 <p>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=38bdf8" alt="Claude" />
-  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=38bdf8" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=38bdf8" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=38bdf8" alt="Codex" />
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=38bdf8" alt="Gemini" />
-  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=38bdf8" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=38bdf8" alt="Grok" />
+  <img src="./ICONS/claude.svg" width="48" alt="Claude" />
+  <img src="./ICONS/claudecode.svg" width="48" alt="Claude Code" />
+  <img src="./ICONS/gemini.svg" width="48" alt="Gemini" />
+  <img src="./ICONS/deepseek.svg" width="48" alt="DeepSeek" />
+  <img src="./ICONS/grok.svg" width="48" alt="Grok" />
 </p>
 
 ### Tools & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,netlify&theme=dark" alt="Git, GitHub, Netlify" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=laragon&logoColor=38bdf8" alt="Laragon" />
-  <img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=38bdf8" alt="XAMPP" />
+  <img src="./ICONS/laragon.svg" width="48" alt="Laragon" />
+  <img src="./ICONS/xampp.svg" width="48" alt="XAMPP" />
 </p>
 
 
