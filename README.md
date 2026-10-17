@@ -45,29 +45,29 @@
 
 ### Mobile
 <p>
-  <img src="./ICONS/reactnative.svg" width="48" alt="React Native" />
+  <img src="./icons/reactnative.svg" width="48" alt="React Native" />
 </p>
 
 ### Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,wordpress&theme=dark" alt="Node.js, PHP, Laravel, MySQL, WordPress" />
-  <img src="./ICONS/json.svg" width="48" alt="JSON" />
+  <img src="./icons/json.svg" width="48" alt="JSON" />
 </p>
 
 ### AI Tools
 <p>
-  <img src="./ICONS/claude.svg" width="48" alt="Claude" />
-  <img src="./ICONS/claudecode.svg" width="48" alt="Claude Code" />
-  <img src="./ICONS/gemini.svg" width="48" alt="Gemini" />
-  <img src="./ICONS/deepseek.svg" width="48" alt="DeepSeek" />
-  <img src="./ICONS/grok.svg" width="48" alt="Grok" />
+  <img src="./icons/claude.svg" width="48" alt="Claude" />
+  <img src="./icons/claudecode.svg" width="48" alt="Claude Code" />
+  <img src="./icons/gemini.svg" width="48" alt="Gemini" />
+  <img src="./icons/deepseek.svg" width="48" alt="DeepSeek" />
+  <img src="./icons/grok.svg" width="48" alt="Grok" />
 </p>
 
 ### Tools & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,netlify&theme=dark" alt="Git, GitHub, Netlify" />
-  <img src="./ICONS/laragon.svg" width="48" alt="Laragon" />
-  <img src="./ICONS/xampp.svg" width="48" alt="XAMPP" />
+  <img src="./icons/laragon.svg" width="48" alt="Laragon" />
+  <img src="./icons/xampp.svg" width="48" alt="XAMPP" />
 </p>
 
 
