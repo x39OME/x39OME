@@ -56,8 +56,8 @@
 
 ### AI Tools
 <p>
-  <img src="./icons/claude.svg" width="48" alt="Claude" />
   <img src="./icons/claudecode.svg" width="48" alt="Claude Code" />
+  <img src="./icons/claude.svg" width="48" alt="Claude" />
   <img src="./icons/gemini.svg" width="48" alt="Gemini" />
   <img src="./icons/deepseek.svg" width="48" alt="DeepSeek" />
   <img src="./icons/grok.svg" width="48" alt="Grok" />
