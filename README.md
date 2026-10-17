@@ -65,7 +65,7 @@
 
 ### Tools & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify&theme=dark" alt="Git, GitHub, Netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify&theme=dark" alt="Git, GitHub, VS Code, Netlify" />
   <img src="./icons/laragon.svg" width="48" alt="Laragon" />
   <img src="./icons/xampp.svg" width="48" alt="XAMPP" />
 </p>
