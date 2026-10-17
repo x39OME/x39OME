@@ -52,13 +52,25 @@
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,wordpress&theme=dark" alt="Node.js, PHP, Laravel, MySQL, WordPress" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=38bdf8" alt="JSON" />
+</p>
+
+### AI Tools
+<p>
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=38bdf8" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=38bdf8" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=38bdf8" alt="GitHub Copilot" />
+</p>
 
 ### Tools & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=github,netlify&theme=dark" alt="GitHub, Netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,netlify&theme=dark" alt="Git, GitHub, Netlify" />
 </p>
-
-
+<p>
+  <img src="https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=laragon&logoColor=38bdf8" alt="Laragon" />
+  <img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=38bdf8" alt="XAMPP" />
+</p>
 
 
 <br />
