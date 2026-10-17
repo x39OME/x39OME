@@ -48,12 +48,6 @@
   <img src="./icons/reactnative.svg" width="48" alt="React Native" />
 </p>
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,wordpress&theme=dark" alt="Node.js, PHP, Laravel, MySQL, WordPress" />
-  <img src="./icons/json.svg" width="48" alt="JSON" />
-</p>
-
 ### AI Tools
 <p>
   <img src="./icons/claudecode.svg" width="48" alt="Claude Code" />
@@ -70,6 +64,11 @@
   <img src="./icons/xampp.svg" width="48" alt="XAMPP" />
 </p>
 
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,wordpress&theme=dark" alt="Node.js, PHP, Laravel, MySQL, WordPress" />
+  <img src="./icons/json.svg" width="48" alt="JSON" />
+</p>
 
 <br />
 
