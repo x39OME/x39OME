@@ -49,6 +49,9 @@
 ### Mobile
 <p>
   <img src="./icons/reactnative.svg" width="48" alt="React Native" />
+  <img src="./icons/expo.svg" width="48" alt="Expo" />
+  <img src="https://skillicons.dev/icons?i=firebase,redux&theme=dark" alt="Firebase, Redux" />
+  <img src="./icons/restapi.svg" width="48" alt="REST API" />
 </p>
 
 ### AI Tools
