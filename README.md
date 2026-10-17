@@ -15,7 +15,7 @@
   <a href="https://x39ome.github.io/essam/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:essamabdullah@outlook.sa">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Send me an email"/>
   </a>
 </div>
