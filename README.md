@@ -73,15 +73,8 @@
 
 <br />
 
-## 📊 GitHub Stats
+## GitHub Streak
 
-- 📈 **Check My GitHub:** [github.com/x39ome](https://github.com/x39ome)
-- 💻 **Top Skills:** JavaScript • React • React Native • HTML/CSS3 • Tailwind & Bootstrap
-- 🔧 **Languages:** 8+ Programming Languages
-- ⭐ **Follow Me** on GitHub for more updates!
-
-**[→ View Full Profile & Statistics](https://github.com/x39ome)**
-
-## 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com/?user=x39ome&theme=dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=x39ome&theme=dark&hide_border=true&background=000000&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub streak stats" />
+</p>
