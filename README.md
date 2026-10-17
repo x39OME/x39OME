@@ -59,8 +59,12 @@
 ### AI Tools
 <p>
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=38bdf8" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=38bdf8" alt="Claude Code" />
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=38bdf8" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=38bdf8" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=38bdf8" alt="Codex" />
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=38bdf8" alt="Gemini" />
+  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=38bdf8" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=38bdf8" alt="Grok" />
 </p>
 
 ### Tools & Deployment
