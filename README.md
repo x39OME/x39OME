@@ -69,8 +69,13 @@
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,wordpress&theme=dark" alt="Node.js, PHP, Laravel, MySQL, WordPress" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="Node.js, MySQL" />
   <img src="./icons/json.svg" width="48" alt="JSON" />
+</p>
+
+### Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress&theme=dark" alt="PHP, Laravel, WordPress" />
 </p>
 
 <br />
