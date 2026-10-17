@@ -22,19 +22,15 @@
 
 <br />
 
-
 ## About Me
 
-- 🔭 **Currently seeking:** Web Developer / Mobile App Developer position
-- 🌱 **Currently learning:** React, React Native, TypeScript, PHP, Laravel, MySQL, WordPress
-- 💼 **Available for:** Freelance projects and full-time opportunities
-- 💬 **Ask me about:** Anything tech-related - I'm always happy to help! 👋
-- 📧 **How to reach me:** [@Portfolio](https://x39ome.github.io/essam/)
-- ☕ **Fun fact:** I'm powered by coffee ☕
-- 🎯 **My Goals:**
-  - Full Stack Web Developer
-  - React Native Mobile Developer
-  - AI & Machine Learning Specialist
+- 💼 **Software Engineer** building fast, beautiful apps for web & mobile
+- 🛠️ **Tech I work with:** React, React Native, TypeScript, PHP, Laravel, MySQL, WordPress
+- ⚡ **How I work:** AI-accelerated workflows to ship faster without cutting corners
+- 🌱 **Currently exploring:** AI integration in web & mobile apps
+- 🔭 **Open to:** Full-time roles and freelance projects
+- 🎯 **Goal:** Growing into a Full Stack Engineer across web & mobile
+- 💬 **Ask me about:** Frontend, mobile apps, or anything tech — always happy to help!
 
 
 <br />
