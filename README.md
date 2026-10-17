@@ -40,37 +40,23 @@
 
 ### Frontend
 <p>
-  <img width="40" height="40" alt="HTML5" src="./icons/html.svg" />
-  <img width="40" height="40" alt="CSS3" src="./icons/css.svg" />
-  <img width="40" height="40" alt="JavaScript" src="./icons/javascript.svg" />
-  <img width="40" height="40" alt="TypeScript" src="./icons/typescript.svg" />
-  <img width="40" height="40" alt="React" src="./icons/react.svg" />
-  <img width="40" height="40" alt="Next.js" src="./icons/next-js.svg" />
-  <img width="40" height="40" alt="Tailwind CSS" src="./icons/tailwindcss.svg" />
-  <img width="40" height="40" alt="Bootstrap" src="./icons/bootstrap.svg" />
-  <img width="40" height="40" alt="Sass" src="./icons/sass.svg" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, Sass" />
 </p>
 
 ### Mobile
 <p>
-  <img width="40" height="40" alt="React Native" src="./icons/react-native.svg" />
+  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=38bdf8" alt="React Native" />
 </p>
 
 ### Backend & Database
 <p>
-  <img width="40" height="40" alt="Node.js" src="./icons/nodejs.svg" />
-  <img width="40" height="40" alt="PHP" src="./icons/php.svg" />
-  <img width="40" height="40" alt="Laravel" src="./icons/laravel.svg" />
-  <img width="40" height="40" alt="MySQL" src="./icons/mysql.svg" />
-  <img width="40" height="40" alt="WordPress" src="./icons/wordpress.svg" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,wordpress&theme=dark" alt="Node.js, PHP, Laravel, MySQL, WordPress" />
 </p>
 
 ### Tools & Deployment
 <p>
-  <img width="40" height="40" alt="GitHub" src="./icons/github.svg" />
-  <img width="40" height="40" alt="Netlify" src="./icons/netlify.svg" />
+  <img src="https://skillicons.dev/icons?i=github,netlify&theme=dark" alt="GitHub, Netlify" />
 </p>
-
 
 
 
