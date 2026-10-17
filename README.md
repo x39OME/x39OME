@@ -36,36 +36,40 @@
 <br />
 
 
+## Tech Stack
 
-## Languages and Tools I use:
+### Frontend
+<p>
+  <img width="40" height="40" alt="HTML5" src="./icons/html.svg" />
+  <img width="40" height="40" alt="CSS3" src="./icons/css.svg" />
+  <img width="40" height="40" alt="JavaScript" src="./icons/javascript.svg" />
+  <img width="40" height="40" alt="TypeScript" src="./icons/typescript.svg" />
+  <img width="40" height="40" alt="React" src="./icons/react.svg" />
+  <img width="40" height="40" alt="Next.js" src="./icons/next-js.svg" />
+  <img width="40" height="40" alt="Tailwind CSS" src="./icons/tailwindcss.svg" />
+  <img width="40" height="40" alt="Bootstrap" src="./icons/bootstrap.svg" />
+  <img width="40" height="40" alt="Sass" src="./icons/sass.svg" />
+</p>
 
-<img align="left" width="40px" height="40px" alt="HTML5" src="./icons/html.svg" />
-<img align="left" width="40px" height="40px" alt="CSS" src="./icons/css.svg" />
-<img align="left" width="40px" height="40px" alt="Javascript" src="./icons/javascript.svg" />
-<img align="left" width="40px" height="40px" alt="Typescript" src="./icons/typescript.svg" />
-<img align="left" width="40px" height="40px" alt="React" src="./icons/react.svg" />
-<img align="left" width="40px" height="40px" alt="React Native" src="./icons/react-native.svg" />
-<img align="left" width="40px" height="40px" alt="Bootstrap" src="./icons/bootstrap.svg" />
-<img align="left" width="40px" height="40px" alt="Tailwind" src="./icons/tailwindcss.svg" />
-<img align="left" width="40px" height="40px" alt="sass" src="./icons/sass.svg" />
-<img align="left" width="40px" height="40px" alt="Php" src="./icons/php.svg" />
+### Mobile
+<p>
+  <img width="40" height="40" alt="React Native" src="./icons/react-native.svg" />
+</p>
 
-<br />
-<br />
+### Backend & Database
+<p>
+  <img width="40" height="40" alt="Node.js" src="./icons/nodejs.svg" />
+  <img width="40" height="40" alt="PHP" src="./icons/php.svg" />
+  <img width="40" height="40" alt="Laravel" src="./icons/laravel.svg" />
+  <img width="40" height="40" alt="MySQL" src="./icons/mysql.svg" />
+  <img width="40" height="40" alt="WordPress" src="./icons/wordpress.svg" />
+</p>
 
-<img align="left" width="40px" height="40px" alt="Laravel" src="./icons/laravel.svg" />
-<img align="left" width="40px" height="40px" alt="MySQL" src="./icons/mysql.svg" />
-<img align="left" width="40px" height="40px" alt="VSCode" src="./icons/vscode.svg" />
-<img align="left" width="40px" height="40px" alt="Github" src="./icons/github.svg" />
-<img align="left" width="40px" height="40px" alt="Xammp" src="./icons/xampp.svg" />
-<img align="left" width="40px" height="40px" alt="Laragon" src="./icons/laragon.svg" />
-<img align="left" width="40px" height="40px" alt="Netlify" src="./icons/netlify.svg"/>
-<img width="40px" height="40px" align="left" alt="Next Js" src="./icons/next-js.svg" />
-<img width="40px" height="40px" align="left" alt="Wordpress" src="./icons/wordpress.svg" />
-<img width="40px" height="40px" align="left" alt="Node Js" src="./icons/nodejs.svg" />
-
-<br />
-
+### Tools & Deployment
+<p>
+  <img width="40" height="40" alt="GitHub" src="./icons/github.svg" />
+  <img width="40" height="40" alt="Netlify" src="./icons/netlify.svg" />
+</p>
 
 
 
