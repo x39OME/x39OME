@@ -24,14 +24,17 @@
 
 ## About Me
 
+## About Me
+
 - 💼 **Software Engineer** building fast, beautiful apps for web & mobile
-- 🛠️ **Tech I work with:** React, React Native, TypeScript, MySQL
+- 🛠️ **Tech I work with:** React, React Native, TypeScript, Expo, Firebase, Redux, MySQL
+- 🤖 **AI integration:** Building AI-powered features into web & mobile apps
 - ⚡ **How I work:** AI-accelerated workflows to ship faster without cutting corners
-- 🌱 **Currently exploring:** PHP, Laravel, WordPress, and AI integration in web & mobile apps
+- 🌱 **Currently exploring:** PHP, Laravel, WordPress
 - 🔭 **Open to:** Full-time roles and freelance projects
 - 🎯 **Goal:** Growing into a Full Stack Engineer across web & mobile
 - 💬 **Ask me about:** Frontend, mobile apps, or anything tech — always happy to help!
-- ❤️ **What I love:** Turning ideas into polished, real-world products
+- ❤️ **Passionate about:** Clean UI, smooth animations, and apps people genuinely enjoy using
 
 <p align="center">
   ⭐ If you like my work, consider starring a repo — it means a lot!
