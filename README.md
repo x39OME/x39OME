@@ -24,8 +24,6 @@
 
 ## About Me
 
-## About Me
-
 - 💼 **Software Engineer** building fast, beautiful apps for web & mobile
 - 🛠️ **Tech I work with:** React, React Native, TypeScript, Expo, Firebase, Redux, MySQL
 - 🤖 **AI integration:** Building AI-powered features into web & mobile apps
